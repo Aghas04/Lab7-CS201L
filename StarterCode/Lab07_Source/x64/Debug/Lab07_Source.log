@@ -1,0 +1,5 @@
+﻿  Functions.h
+  Lab07.cpp
+\\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\C++\lab07\StarterCode\Lab07_Source\Lab07.cpp(6,6): warning C4101: 'start': unreferenced local variable
+  Generating Code...
+\\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\C++\lab07\StarterCode\Lab07_Source\Functions.h : fatal  error C1090: PDB API call failed, error code '3': \\kc.umkc.edu\kc-users\home\a\aagcgg\Desktop\C++\lab07\StarterCode\Lab07_Source\x64\Debug\vc143.pdb
